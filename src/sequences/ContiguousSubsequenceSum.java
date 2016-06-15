@@ -1,7 +1,7 @@
 package sequences;
 
 /**
- * O(n) using two pointers
+ * O(n) using two pointers. Only for non-negative numbers.
  */
 public class ContiguousSubsequenceSum {
 	
