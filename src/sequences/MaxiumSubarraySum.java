@@ -1,4 +1,4 @@
-package set;
+package sequences;
 
 public class MaxiumSubarraySum {
 
